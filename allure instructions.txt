@@ -1,0 +1,17 @@
+Allure Setup :
+   Prerequisites:
+            1.install java8+
+            2.install node.js
+
+   steps:
+        pip install allure-pytest                       (install allure-pytest package)
+        npm install -g allure-commandline --save-dev    (install allure commandline tool)
+
+
+Report Generation:
+
+1.Generate report in JSON format
+    IN Terminal - py.test --alluredir <filepath> tests       (tests - test folder)
+
+2. Convert to HTML format
+    IN CMD - allure serve <filepath>

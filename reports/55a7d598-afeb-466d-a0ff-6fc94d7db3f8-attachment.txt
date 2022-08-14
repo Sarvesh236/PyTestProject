@@ -1,0 +1,2 @@
+[32mINFO    [0m test_formSubmission:test_Homepage.py:25 message received is : ×
+Success! The Form has been submitted successfully!.

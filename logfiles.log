@@ -1,0 +1,10 @@
+2022-08-14 19:37:20,069 :INFO :test_formSubmission :message received is : ×
+Success! The Form has been submitted successfully!.
+2022-08-14 19:37:24,402 :INFO :test_e2e :getting all the card titles
+2022-08-14 19:37:24,453 :INFO :test_e2e :iphone X
+2022-08-14 19:37:24,469 :INFO :test_e2e :Samsung Note 8
+2022-08-14 19:37:24,486 :INFO :test_e2e :Nokia Edge
+2022-08-14 19:37:24,501 :INFO :test_e2e :Blackberry
+2022-08-14 19:37:24,651 :INFO :test_e2e :Entering country name as ind
+2022-08-14 19:37:29,888 :INFO :test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
